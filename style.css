@@ -1,0 +1,61 @@
+body {
+    font-family: "Cera CY", Helvetica, Arial, sans-serif;
+}
+h1 { 
+    text-align: center;
+}
+header img {
+    height: 50px;
+    margin: 5px;
+}
+
+header {
+    border-bottom: 1px solid rgb(207, 207, 207);
+    padding: 2px;
+    align-items: center;
+    height: 75px;
+}
+nav {
+    font-size: 16px;
+    line-height: 24px;
+}
+a {
+    text-decoration: none;
+}
+nav a{
+    border-bottom: 3px solid #833AE0;
+    margin: 10px;
+    font-size: 20px;
+
+}
+.pi {
+    border: 5px solid #833AE0;
+    border-radius: 12px;
+    padding: 8px;
+    font-size: 25px;
+}
+.ri {
+    float: right;
+}
+ul, ol {
+    font-size: 23px;
+}
+details {
+    border: 3px solid #833AE0;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #833AE0;
+    color: white;
+}
+details a {
+    color: white;
+    border-bottom: 2px solid white;
+}
+footer {
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
